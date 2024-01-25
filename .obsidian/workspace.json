@@ -11,24 +11,27 @@
             "id": "77a5f5e451d51886",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dog House Campaign/Session 1/Locations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "e56c7a81a1db584b",
+            "id": "334e35a1f3dae25e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General lore notes.md",
+                "file": "Dog House Campaign/Untitled/GM Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
     "id": "3a370a68337ddea7",
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General lore notes.md",
+                "file": "Dog House Campaign/Session 1/Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +114,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General lore notes.md",
-                "linksCollapsed": false,
+                "file": "Dog House Campaign/Session 1/Locations.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -134,16 +137,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General lore notes.md"
+                "file": "Dog House Campaign/Session 1/Locations.md"
               }
             }
+          },
+          {
+            "id": "43e29bcce4f98623",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ebf16d81d6b1434",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,11 +171,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e56c7a81a1db584b",
+  "active": "77a5f5e451d51886",
   "lastOpenFiles": [
-    "General lore notes.md"
+    "Creation and gods.md",
+    "campaign Ideas.md",
+    "Dog House Campaign/Untitled/Untitled.md",
+    "Dog House Campaign/Untitled/Locations.md",
+    "Dog House Campaign/Untitled/GM Tools.md",
+    "Edlan.md",
+    "Dog House Campaign/Session 1/Introduction.md",
+    "Dog House Campaign/Session 1/Locations.md",
+    "Dog House Campaign/General Idea.md",
+    "Dog House Campaign/Untitled/NPCs.md",
+    "Pasted image 20240124210741.png",
+    "Untitled.md",
+    "Images",
+    "Images/Pasted image 20240124203342.png",
+    "Images/Pasted image 20240124203318.png",
+    "Images/galben.png",
+    "General lore notes.md",
+    "Races/Wildfolk.md",
+    "Dog House Campaign/Session 1",
+    "Races/Elves.md",
+    "Races/Tiefling.md",
+    "Session 1/Overview.md",
+    "Dog House Campaign/Untitled",
+    "Dog House Campaign",
+    "Session 1",
+    "Races",
+    "README.md"
   ]
 }

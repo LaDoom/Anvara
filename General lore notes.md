@@ -18,11 +18,13 @@ as this happened in a world with existing cultures, the towers havent *allways* 
 
 - The religious capital of a nation had a tower that allowed those who made the great pilgramige through it for five years, five months and five days receave a vision of the future from their god. 
 
-- a great tower decimated a nation by destroying their capital and a large amount of nobility, these nobels adn those of the city were turned into demons and infernals of one of the dark gods, many of the dark gods had great armies mustered into the material world at the emerged. they tore havock across the relm until many of th egods gave up their power to influance the world to lock the demons away with pacts and laws and trap their capital city away in their relms. 
+- a great tower decimated a nation by destroying their capital and a large amount of nobility, these nobels and those of the city were turned into demons and infernals of one of the dark gods, many of the dark gods had great armies mustered into the material world at the emergance. they tore havock across the relm until many of the gods gave up their power to influance the world to lock the demons away with pacts and laws and trap their capital city away in their relms. 
 
 The high elves worship a great god where the law of their race is that they must spend their lives in worship and love of art and expression, living their lives to the fullest and when they reach their prime or their peak they must sacrifice their soul to their god who consumes it for sustinance. 
 
-The Dark Elves
+The Dark Elves were made by the gods brother who poured his whole life into making the race, the dark elves all have a small shard of their gods soul in their body, represented by a gem that protruds from their skin. 
+
+The wood elves and other elven races are high elves who did not want to sacrifice their lives to their god and have formed other comunities and cultures.
 
 
 

@@ -1,0 +1,7 @@
+The Elves were some of the first races made in the early inseption of the world, there were two beings, siblings almost, who squabbeled about what true meaning was, one believed that the creation of truest beauty, the greatest art. The other denied, and that the the beauty of life was enjoying everything even in its most minor imperfections. 
+
+Eltorel and Shanna were there names, Eltorel made the Elves as a race that would assist him to become perfect. these beings would spend their lives in creation, seeking to become masters of art then, when they were at their peak would sacrifice themselves to their god, in the belief that they are becoming part of their great dream, the perfect expression it was called. 
+
+Shanna was abhorred by this, seeinmg it as a waste of life and talent, thus pured all of herself into creating a new race, the Dark Elves were born from this and their goal was to free the high elves from Eltorel's clutches. They warred for a long time, many of the high elves defecting but most standing by their master, war is an art form as well and they perfected it like any other. 
+
+as the demons invaded Eltorel took it to his advantage and pushed the dark elves underground with the dwarves and gnomes. the underdark became their home. Where many of their cities worked more subtaly against Eltorel. 

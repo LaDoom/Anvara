@@ -1,0 +1,1 @@
+They will meet another character who will help them fend off the bandits when they attack, they will be important in the overall campaign but will not show up for a short while. 

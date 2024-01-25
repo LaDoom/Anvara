@@ -1,0 +1,1 @@
+Tiefling or devil born existed before the collapse but they were not common. When the towers emerged a group of infernal gods invaded the world, the tiefling being their foot soldiers but when the gates closed many of these soldiers were stranded on the material plane and no longer bound to the demons. 

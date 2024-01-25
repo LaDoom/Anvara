@@ -1,0 +1,7 @@
+- was attacked onthe road
+- untied themselves and attacked the bandits, killing three and knocking one out. 
+- Traveled to the village of Galben and met with the owner of the lumber yard Kella
+- learned that there were goblins in a nearby tower
+- Offered to kill the goblins for a reward
+- Go'rion took a potion of minor healing
+- Eddie the wizard and three of his goons kicked down the door demanding 'I'm looking for some travaling Refugees and I will take them!''

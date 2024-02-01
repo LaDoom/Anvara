@@ -4,4 +4,4 @@
 - learned that there were goblins in a nearby tower
 - Offered to kill the goblins for a reward
 - Go'rion took a potion of minor healing
-- Eddie the wizard and three of his goons kicked down the door demanding 'I'm looking for some travaling Refugees and I will take them!''
+- Eddie the wizard and two of his goons kicked down the door demanding 'I'm looking for some travaling Refugees and I will take them!''

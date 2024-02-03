@@ -2,5 +2,5 @@ Edlan is a country in the south of Anvara, during the collapse it was thrown int
 
 The kingdom has struggeled on from the collapse, central cities and towns having survived and thrived but the further from the capital of Elrith you go the more lawless it becomes, the towns and cities getting minimal support from their lords and nobels. 
 
-The current king only brought in two years ago after his father died, Tyros Astier IV is said to be mad, and the nobility are struggaling to continue the strong rebuilding that Tyros III had spearheaded after The Arrival. 
+The current king only Crowned two years ago after his father died, Tyros Astier IV is said to be mad, and the nobility are struggaling to continue the strong rebuilding that Tyros III had spearheaded after The Arrival. 
 

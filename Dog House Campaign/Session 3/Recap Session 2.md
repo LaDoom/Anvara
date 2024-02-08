@@ -1,0 +1,6 @@
+- Eddie stormed in and demanded to capture of Felix and the lives of the party
+- Players convinced the crowd to turn on him and he left.
+- Met Tia and was given a elixir of disguise 
+- Learned that the goblins were called the Red Claws and led by a hobgoblin
+- Asked to retrieve a staff from the Hobgoblin Dakan
+- Ambushed goblins on the way to Volgen Tower and rested

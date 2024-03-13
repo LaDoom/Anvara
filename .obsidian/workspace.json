@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dog House Campaign/Sessions/Session 4/Recap session 3.md",
+                "file": "Edlan.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dog House Campaign/Sessions/Session 4/Recap session 3.md",
+                "file": "Edlan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dog House Campaign/Sessions/Session 4/Recap session 3.md",
+                "file": "Edlan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dog House Campaign/Sessions/Session 4/Recap session 3.md"
+                "file": "Edlan.md"
               }
             }
           },
@@ -202,12 +202,13 @@
   },
   "active": "b5f393e8a5f81c17",
   "lastOpenFiles": [
-    "Dog House Campaign/Sessions/Session 4/Locations/Tower Volgen.md",
-    "Dog House Campaign/Sessions/Session 4/Locations/Goblin Camp.md",
     "Dog House Campaign/Sessions/Session 4/Recap session 3.md",
+    "Dog House Campaign/Sessions/Session 3/Recap Session 2.md",
+    "Dog House Campaign/Sessions/Session 4/Locations/Goblin Camp.md",
+    "Dog House Campaign/Sessions/Session 4/Locations/Tower Volgen.md",
+    "Dog House Campaign/Sessions/Session 3/Locations/Tower Volgen.md",
     "Organisations/Main Antagonists.md",
     "Organisations",
-    "Dog House Campaign/Sessions/Session 3/Locations/Tower Volgen.md",
     "Dog House Campaign/Sessions/Session 3/Locations/Goblin Camp.md",
     "Dog House Campaign/Sessions/Session 3/Locations/Forest Battlefield.md",
     "Dog House Campaign/Sessions/Session 2/Locations.md",
@@ -219,7 +220,6 @@
     "Dog House Campaign/Sessions/Session 3/Red Claws.md",
     "Dog House Campaign/Sessions/Session 4/Locations",
     "Dog House Campaign/Sessions/Session 3/GM Notes.md",
-    "Dog House Campaign/Sessions/Session 3/Recap Session 2.md",
     "World Notes/Gods.md",
     "Dog House Campaign/Sessions/Session 4",
     "Dog House Campaign/Sessions",

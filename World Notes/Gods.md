@@ -1,13 +1,17 @@
-Havan (gods who sacrificed themselves)
+#### Havan (gods who sacrificed themselves)
 
 Noctis - God of the moon, Nobility and selflessness
 
 Kelgareth - Goddess of nature.  - Symbol is a tree with a storm raging around it.
 
+Sylph - God of love
 
 
 
-Vilketh (Gods who did not)
+
+
+
+#### Vilketh (Gods who did not)
 
 Tius - the Bird messanger of death, who carries the dead to the afterlife
 

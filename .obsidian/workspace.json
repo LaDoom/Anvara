@@ -13,13 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Dog House Campaign/Session 3/GM Notes.md",
+=======
+                "file": "Dog House Campaign/Sessions/Session 3/Locations/Goblin Camp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eee892f4f93ac72",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "b5f393e8a5f81c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edlan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "334e35a1f3dae25e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/GM Tools.md",
+>>>>>>> 0d8dbdca67cc64c721c9ff9a300bf9f87ead7a16
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +124,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Dog House Campaign/Session 3/GM Notes.md",
+=======
+                "file": "Edlan.md",
+>>>>>>> 0d8dbdca67cc64c721c9ff9a300bf9f87ead7a16
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +145,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Dog House Campaign/Session 3/GM Notes.md",
                 "linksCollapsed": false,
+=======
+                "file": "Edlan.md",
+                "linksCollapsed": true,
+>>>>>>> 0d8dbdca67cc64c721c9ff9a300bf9f87ead7a16
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +173,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Dog House Campaign/Session 3/GM Notes.md"
+=======
+                "file": "Edlan.md"
+>>>>>>> 0d8dbdca67cc64c721c9ff9a300bf9f87ead7a16
               }
             }
           },
@@ -157,10 +209,54 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "c13acd2815f859c7",
   "lastOpenFiles": [
     "Dog House Campaign/Session 3/Locations/Tower Volgen.md",
     "Dog House Campaign/Session 3/Locations/Goblin Camp.md",
     "Dog House Campaign/Session 3/Locations/Forest Battlefield.md"
+=======
+  "active": "b5f393e8a5f81c17",
+  "lastOpenFiles": [
+    "Dog House Campaign/Sessions/Session 4/Recap session 3.md",
+    "Dog House Campaign/Sessions/Session 3/Recap Session 2.md",
+    "Dog House Campaign/Sessions/Session 4/Locations/Goblin Camp.md",
+    "Dog House Campaign/Sessions/Session 4/Locations/Tower Volgen.md",
+    "Dog House Campaign/Sessions/Session 3/Locations/Tower Volgen.md",
+    "Organisations/Main Antagonists.md",
+    "Organisations",
+    "Dog House Campaign/Sessions/Session 3/Locations/Goblin Camp.md",
+    "Dog House Campaign/Sessions/Session 3/Locations/Forest Battlefield.md",
+    "Dog House Campaign/Sessions/Session 2/Locations.md",
+    "Dog House Campaign/Sessions/Session 1/Locations.md",
+    "Dog House Campaign/Sessions/Session 1/Session 1 notes.md",
+    "Dog House Campaign/Sessions/Session 1/Introduction.md",
+    "Dog House Campaign/Player Characters/Agatha.md",
+    "Dog House Campaign/Sessions/Session 4/Locations.md",
+    "Dog House Campaign/Sessions/Session 3/Red Claws.md",
+    "Dog House Campaign/Sessions/Session 4/Locations",
+    "Dog House Campaign/Sessions/Session 3/GM Notes.md",
+    "World Notes/Gods.md",
+    "Dog House Campaign/Sessions/Session 4",
+    "Dog House Campaign/Sessions",
+    "Dog House Campaign/Player Characters/Raulbe.md",
+    "Dog House Campaign/Player Characters/Gor'ion.md",
+    "Dog House Campaign/Player Characters",
+    "General Idea.md",
+    "Dog House Campaign/Sessions/Session 2/Recap session 1.md",
+    "Races/Elves.md",
+    "Races/Goblins.md",
+    "Races/Wildfolk.md",
+    "World Notes/Groups and Factions.md",
+    "Dog House Campaign/Session 3/Factions",
+    "World Notes/Monsters",
+    "Dog House Campaign/Sessions/Session 3/Locations",
+    "Dog House Campaign/Sessions/Session 3",
+    "World Notes",
+    "Images/Pasted image 20240124210741.png",
+    "Images/Pasted image 20240124203342.png",
+    "Images/Pasted image 20240124203318.png",
+    "Images/galben.png"
+>>>>>>> 0d8dbdca67cc64c721c9ff9a300bf9f87ead7a16
   ]
 }

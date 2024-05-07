@@ -1,0 +1,7 @@
+- Found that the goblins you had fought had been eaten
+- Found your way to Tower Volgen and disguised Gor'ion as a goblin
+- The gate guide named Gor'ion as Na'gash and seemed to be very happy seeing you. 
+- The goblin survivor Shanka seems very suspicious of you
+- Imprisoning Felix and Agatha they met a wandering adventurer 'Roger/Rachel the Shadow slayer'
+- Go'rion met with the leader Dakan, the staff on his back
+- On the journey back to the prisoners Agatha and Felix have freed them, Raulbe is swinging from the nearby tree and Lah'lang, the prison guard is about to react. 

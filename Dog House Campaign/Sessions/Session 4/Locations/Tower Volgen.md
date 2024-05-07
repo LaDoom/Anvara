@@ -27,5 +27,6 @@ Tall and broad, scrunched, aggressive face and dressed in leathers. strapped to 
 
 The Staff of Kelgereth 
 
-*The user can raise the staff in the air which will create a small cloud, he can direct it and have it fire lightning down on those benieth, he will redirect the cloud and then attack the enemy with a lightning bolt (reflex save, find a compatable spell of level 1) 
+*The user can raise the staff in the air which will create a small 10 foot cloud, he can direct it and have it fire lightning down on those benieth, he will redirect the cloud and then attack the enemy with a Thunderstrike https://2e.aonprd.com/Spells.aspx?ID=1721
+
 

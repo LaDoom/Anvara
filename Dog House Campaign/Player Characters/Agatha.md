@@ -2,7 +2,10 @@
 
 ### Personal Quest
 
+#### The Missing House
 
+- Agatha is looking for her missing house, and searching for her adoptive family. 
+- She has been directed to the Eaglesends in Tamella, 
 
 ### Backstory
 

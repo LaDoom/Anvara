@@ -5,3 +5,12 @@ They have a magical great sword 'Envy' (called so because all swords need a cool
 They are a member of the Ageless Order, a group of knights who serve the peoples of ht eland, killing monsters and beasts where many countries fail and fall. 
 
 Description: ambiguous features, a relaxed and carefree deminour (think Jeaudeau or sonic). They have black hair with blond streaks. They wear a Purple cloak when they are Rachel, a Red and gold one when Roger. 
+
+- Roger/Rachel the Shadow Slayer
+  - Tall genderfluid human warrior, well renowned hero
+  - Talks in a midwest american accent
+
+  - Goal: Become a Legend
+
+
+Their Apprentice is Henri, Merchants son from the first adventure. 

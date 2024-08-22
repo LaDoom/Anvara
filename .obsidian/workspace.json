@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dog House Campaign/Sessions/Session 9/Session 9 Note.md",
+                "file": "Dog House Campaign/Sessions/Session 10/Session 10 Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dog House Campaign/Sessions/Session 9/Session 9 Note.md",
+                "file": "Dog House Campaign/Sessions/Session 10/Session 10 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dog House Campaign/Sessions/Session 9/Session 9 Note.md",
+                "file": "Dog House Campaign/Sessions/Session 10/Session 10 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dog House Campaign/Sessions/Session 9/Session 9 Note.md"
+                "file": "Dog House Campaign/Sessions/Session 10/Session 10 Note.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "3cf1ab848a33b1be",
   "lastOpenFiles": [
-    "Dog House Campaign/Sessions/Session 8/Session 8 Note.md",
     "Dog House Campaign/Sessions/Session 9/Session 9 Note.md",
+    "Dog House Campaign/Sessions/Session 10/Session 10 Note.md",
+    "Dog House Campaign/Sessions/Session 10",
+    "Dog House Campaign/Sessions/Session 8/Session 8 Note.md",
     "Dog House Campaign/Sessions/Session 9",
     "Dog House Campaign/Sessions/Session 7/Session 7 Note.md",
     "Dog House Campaign/Sessions/Session 8",
